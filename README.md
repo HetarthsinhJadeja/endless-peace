@@ -33,3 +33,6 @@ netlify dev --port 8889
 ```
 
 It deploys to Netlify as a static site (`netlify.toml` publishes the repository root).
+
+## Enjoy here 
+https://endless-peace.netlify.app/
